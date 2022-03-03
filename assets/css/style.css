@@ -38,7 +38,7 @@ header nav ul li {
 
 header nav ul li a{
     margin:30px;
-    front-weight:lighter;
-    font size:22px
+    font-weight:lighter;
+    font-size:22px;
 
 }
